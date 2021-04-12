@@ -1,1 +1,1 @@
-URL: <https://github.com/hik010/Lab2>
+URL: <https://hik010.github.io/Lab2/>
